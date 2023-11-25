@@ -4,3 +4,4 @@ https://github.com/dicodingacademy/assets/releases/download/release/rockpapersci
 
 The dataset contains a total of 2188 images corresponding to the 'Rock' (726 images), 'Paper' (710 images) and 'Scissors' (752 images) hand gestures of the Rock-Paper-Scissors game
 
+You can run this code in Google Colaboratory
